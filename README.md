@@ -9,3 +9,5 @@ The Bag File contains the necessary topics including sensor measurements
 The covariance matrices for the Kalman Filter were appropriately chosen
 
 Used tf as ground truth and computed MSE
+
+More information can be found in the Project Report
